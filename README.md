@@ -12,8 +12,8 @@
 
 ## Sample Codes
 ### 5.6 数値例
-* Advanced: https://github.com/iiduka-researches/PPPy
 * 演習問題5.5: https://github.com/iiduka-researches/meiji-optim-theory
+* Advanced: https://github.com/iiduka-researches/PPPy
 
 ### 7.4 不動点近似法の適用例
 * 演習問題7.1: https://github.com/iiduka-researches/fixed-point
