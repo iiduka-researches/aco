@@ -18,5 +18,5 @@
 ### 7.4 不動点近似法の適用例
 * 演習問題7.1: https://github.com/iiduka-researches/fixed-point
 
-### 8.7 ミニバッチの推定
+### 8.6 ミニバッチの設定
 * 演習問題8.2: https://github.com/iiduka-researches/202111-batch
